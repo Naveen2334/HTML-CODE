@@ -1,0 +1,18 @@
+#border{
+    /* border-style: solid;
+    border-width: 10px 20px 30px 100px;
+    border-color: blueviolet brown aqua hotpink;
+    border: solid green; */
+    /* border-top-style: solid;
+    border-top-color: blue;
+    border-top-width: 26px;
+    border-bottom-style: solid ; */
+
+     border: 10px solid blue;
+    border-top-left-radius: 20px;
+    border-top-right-radius: 20px;
+ 
+     border-spacing: 10in; 
+     
+     
+}

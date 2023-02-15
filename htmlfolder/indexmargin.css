@@ -1,0 +1,19 @@
+.div1{
+    border: 10px  solid red;
+    padding: 10px 10px 10px 10px;
+}
+#margin{
+    padding: 20px;
+
+}
+body{
+   border: 5px dotted black; 
+}
+#margin{
+    margin-top: 100px;
+    margin-bottom: 100px;
+    margin-left: 100px;
+    margin-right: 100px;
+    width: 400px;
+    margin-trim: ;
+}

@@ -1,0 +1,11 @@
+ul{
+list-style-type: circle;
+/* list-style-position: outside; */
+list-style-position: inside;
+}
+ol{
+list-style-type: lower-alpha ;
+}
+li{
+    border: 5px solid black;
+}

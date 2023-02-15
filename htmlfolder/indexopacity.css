@@ -1,0 +1,15 @@
+#color-box{
+    background-color: red;
+    height: 200px;
+    width: 100px;
+    margin-bottom: 20px;
+    /* opacity: 0.5; */
+}
+#mc-box{
+    background-color: blue;
+    height: 100px;
+    width: 200px;
+    margin-bottom: -100px;
+    opacity: 0.5;
+
+}

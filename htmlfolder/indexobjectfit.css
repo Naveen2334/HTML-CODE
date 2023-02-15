@@ -1,0 +1,6 @@
+#start{
+    border: 20px solid red ;
+    height: 600px;
+    width: 500px;
+    object-fit: contain;
+}

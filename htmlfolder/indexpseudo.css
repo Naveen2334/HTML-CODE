@@ -1,0 +1,44 @@
+/* selector:pseudo-class{
+    
+} */
+li:first-child{
+    color: rebeccapurple;
+}
+li:last-child{
+    color: brown;
+}
+/* li:nth-child(2){
+    color: chartreuse;
+} */
+/* li:nth-child(odd){
+    color: chartreuse;
+} */
+/* li:nth-child(3n+1){
+    color: chartreuse;
+} */
+li:nth-child(3n-1){
+    color: chartreuse;
+}
+input:focus{
+    border: 3px solid red
+}
+/* p::first-letter{
+    font-size: 100px;
+    color: blue;
+} */
+p::first-line{
+    font-size: 100px;
+    color: blue;
+} 
+h1::before{
+    content: url(images/splash.jpg);
+
+
+}
+h1::after{
+    content: "  added after";
+}
+::selection{
+    color: red;
+    background: yellow;
+}

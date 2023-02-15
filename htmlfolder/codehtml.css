@@ -1,0 +1,22 @@
+p{
+    color: rgb(229, 24, 24);
+}
+#bg
+{
+    /* background-color: aqua; */
+    background-image: url(images/splash.jpg);
+    background-repeat: no-repeat;
+    background-position: 5% 10%;
+    background-size: 50px 700px;
+    background-attachment: scroll;
+}
+body
+{
+    background-color: rgb(189, 184, 194);
+    /* background-image: url(images/splash.jpg); */
+    
+}
+#border
+{
+   border-style: dashed; 
+}
